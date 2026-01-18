@@ -10,6 +10,27 @@ My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi
 - 🌐 **Continuous Learner** - Always exploring new security tools and frameworks
 - 🎯 **Current Focus** - Network defense, ethical hacking, and threat analysis
 
+## 📚 Currently Learning
+
+- **Network Security Fundamentals** - Firewalls, VPNs, IDS/IPS
+- **Ethical Hacking Techniques** - Penetration testing methodologies
+- **C++ Advanced Concepts** - Memory management and optimization
+- **Cloud Security** - AWS/Azure security best practices
+
+## 🎓 Education
+
+**Universiti Teknologi Malaysia (UTM)**  
+*Bachelor of Computer Science (Network & Security)*  
+📅 Expected Graduation: 2028 
+📚 Relevant Courses: Programming Technique I, Discrete Structure, Integrity & Anti-Corruption, Digital Logic, Technology & Information System
+
+## 🎯 Current Goals
+
+1. [ ] Complete 5+ security-focused projects
+2. [ ] Obtain CompTIA Security+ certification
+3. [ ] Contribute to open-source security tools
+4. [ ] Secure cybersecurity internship for 2024
+5. [ ] Build comprehensive portfolio website
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nggkuuu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tengku-adam-0621123a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tengkuadam@graduate.utm.my) 
