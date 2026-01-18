@@ -21,8 +21,8 @@ My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi
 
 **Universiti Teknologi Malaysia (UTM)**  
 *Bachelor of Computer Science (Network & Security)*  
-- 📅 Expected Graduation: 2028 
-- 📚 Relevant Courses: Programming Technique I, Discrete Structure, Integrity & Anti-Corruption, Digital Logic, Technology & Information System
+📅 Expected Graduation: 2028  
+📚 Relevant Courses: Programming Technique I, Discrete Structure, Integrity & Anti-Corruption, Digital Logic, Technology & Information System
 
 ## 🎯 Current Goals
 
