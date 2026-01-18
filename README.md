@@ -1,3 +1,11 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Tengku Adam and I'm a student at Universiti Teknologi Malaysia, majoring in Bachelor of Computer Science (Network & Security).</p>
+
+###
+
 # 💫 About Me:
 ✨ A passionate Computer Science student specializing in Network & Security<br>📚 Enthusiastic about cybersecurity, network architecture, and system protection<br>🎯 Enjoy building practical projects that solve real-world security challenges<br>🎲 Constantly learning new technologies and aiming to contribute to safer digital environments
 
