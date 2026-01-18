@@ -11,11 +11,11 @@ Student Developer | Bachelor in Computer Science(Network & Security) @ Universit
 
 ## Tools & Tech
 
-Languages: Python, Javascript, Java, C++
-Web: HTML, CSS
-Tools: Git, VS Code, GitHub
-Databases: MySQL, MongoDB
-Learning: Currently diving deep into C++ fundamentals and object-oriented programming
+- Languages: Python, Javascript, Java, C++
+- Web: HTML, CSS
+- Tools: Git, VS Code, GitHub
+- Databases: MySQL, MongoDB
+- Learning: Currently diving deep into C++ fundamentals and object-oriented programming
 
 ## Reach Me
 
