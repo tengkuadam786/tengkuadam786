@@ -2,8 +2,6 @@
 
 My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi Malaysia** specializing in **Network & Security**.
 
----
-
 ## 🔐 About Me
 
 - 🔴 **Cybersecurity Enthusiast** - Passionate about network protection and system security
