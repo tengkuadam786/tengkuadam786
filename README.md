@@ -29,7 +29,7 @@ My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi
 1. [ ] Complete 5+ security-focused projects
 2. [ ] Obtain CompTIA Security+ certification
 3. [ ] Contribute to open-source security tools
-4. [ ] Secure cybersecurity internship for 2024
+4. [ ] Secure cybersecurity internship for 2028
 5. [ ] Build comprehensive portfolio website
 
 ## 🌐 Socials:
