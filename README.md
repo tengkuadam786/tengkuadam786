@@ -1,6 +1,7 @@
 # Hey 👋 What's up?
 
-My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi Malaysia** specializing in **Network & Security**.
+My name is **Tengku Adam**, a Computer Science student at **Universiti Teknologi Malaysia** specializing in **Network & Security**.  
+E-Portfolio : https://tengkuadam786.github.io/
 
 ## 🔐 About Me
 
